@@ -1,4 +1,4 @@
 variable "location" {
-    type    = string
-    default = "West Europe"
+    description = "value"
+    type        = string
 }
